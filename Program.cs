@@ -35,7 +35,7 @@ Console.Write("Третья цифра числа: " + ThirdDigitOfNum(num));
 /*
 bool HolidayDetect(int dayNum)
 {
-    if((dayNum == 6) | (dayNum == 6)) return true;
+    if((dayNum == 6) | (dayNum == 7)) return true;
     else return false;
 }
 
