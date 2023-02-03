@@ -32,7 +32,7 @@ Console.Write("Третья цифра числа: " + ThirdDigitOfNum(num));
 */
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-
+/*
 bool HolidayDetect(int dayNum)
 {
     if((dayNum == 6) | (dayNum == 6)) return true;
@@ -49,3 +49,4 @@ Console.Write("Введите номер дня недели (1-7): ");
 int numOfDay = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Безусловно, это " + TranslateToRus(HolidayDetect(numOfDay)));
+*/
